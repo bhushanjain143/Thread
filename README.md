@@ -1,0 +1,1 @@
+This repo is created for storing Java programms which I have learn during exploring Java
