@@ -13,5 +13,15 @@ public class Reverse
 
 		System.out.println(a[b]);			
 		}*/
+
+		int a11=10;
+		/*System.out.println(a11++);System.out.println(a11);System.out.println("\n");
+		System.out.println(a11--);System.out.println(a11);System.out.println("\n");
+		System.out.println(++a11);System.out.println(a11);System.out.println("\n");
+		System.out.println(--a11);System.out.println(a11);System.out.println("\n");
+	*/
+		System.out.println(a11--);
+		System.out.println(a11++);
+
 	}
 }
